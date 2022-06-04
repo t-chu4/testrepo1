@@ -1,5 +1,5 @@
 {
   "name" : "histogram",
   "version" : "0.0.0",
-  "main" : "calculate.js"
+  "main" : "histogram.html"
 }
